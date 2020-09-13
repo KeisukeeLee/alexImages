@@ -1,2 +1,2 @@
-# alexImages
+# alex-Images
 My image gallery
